@@ -1,1 +1,3 @@
-**checking
+!#bin/bash
+
+echo " Welcome "
